@@ -18,6 +18,7 @@ public class StringExample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        String str45 = "Hola hooooo";
         String str1 = "abc defg hijk";
         String str2 = "Abc defg hijk";
         String str3 = "   Hello";
